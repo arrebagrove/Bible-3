@@ -13,11 +13,15 @@ Luke
 Joshua
 Copper
 Mother
+Computer
 English
 Mary
 Chapter
 French
 Fish
+
+
+TODO: write a concept for each word mentioned above!
 
 
 
