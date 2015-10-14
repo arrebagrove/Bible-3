@@ -11,16 +11,19 @@ Kings James
 Verse
 Luke
 Joshua
+Author
 Serpent
+Rank
 Copper
 Mother
 Computer
+Code
 English
 Mary
 Chapter
 French
 Fish
-
+Quantity
 
 TODO: write a concept for each word mentioned above!
 
