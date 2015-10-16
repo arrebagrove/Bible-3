@@ -1,38 +1,92 @@
-KEY WORDS
----------
-Main functions:
-Testment
-Book
-Chapter
-Verse
+Main Classes:
+-------------
+Class	Author
+			TODO: define fields
+			TODO: define properties
+			TODO: define constructors
+			TODO: define methods
+			etc
+Class	Book
+			TODO: define fields
+			TODO: define properties
+			TODO: define constructors
+			TODO: define methods
+			etc
+Class	Chapter
+			TODO: define fields
+			TODO: define properties
+			TODO: define constructors
+			TODO: define methods
+			etc
+Class	ChapterEvent
+			TODO: define fields
+			TODO: define properties
+			TODO: define constructors
+			TODO: define methods
+			etc
+Class	Language
+			TODO: define fields
+			TODO: define properties
+			TODO: define constructors
+			TODO: define methods
+			etc
+Class	Testment
+			TODO: define fields
+			TODO: define properties
+			TODO: define constructors
+			TODO: define methods
+			etc
+Class	Verse
+			TODO: define fields
+			TODO: define properties
+			TODO: define constructors
+			TODO: define methods
+			etc
+Class	Version
+			TODO: define fields
+			TODO: define properties
+			TODO: define constructors
+			TODO: define methods
+			etc
+
+=================================================================
+=================================================================
+
+These keywords were mapped as classes:
+--------------------------------------
+Portuguese (language)
+English (language)
+French (language)
+Luke (book; author)
+Joshua (book; author)
+Author
+King James (version)
+
+=================================================================
+=================================================================
+FOLLOWING KEYWORDS NEED MORE BRAIMSTORMING!!!
+=================================================================
+=================================================================
 
 Datas:
-Overview
-Portuguese
+------
+Overview			
 Brother
 Bethlem
-Kings James
-Luke
-Joshua
 Serpent
 Copper
-Mother
-English
-Mary
-French
+Mother			
+Mary			
 Fish
 
 Second functions:
-Author
+-----------------			
 Rank
 Computer
 Code
 Quantity
 
-TODO: write a concept for each word mentioned above!
-----------------------------------------------------
-
-
-
-
-
+New key word(s):
+----------------
+600 A.C.
+65 D.C.
