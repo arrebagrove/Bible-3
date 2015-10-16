@@ -1,28 +1,32 @@
 KEY WORDS
 ---------
+Main functions:
+Testment
 Book
-Overview
-Testament
-Portuguese
+Chapter
 Verse
+
+Datas:
+Overview
+Portuguese
 Brother
 Bethlem
 Kings James
-Verse
 Luke
 Joshua
-Author
 Serpent
-Rank
 Copper
 Mother
-Computer
-Code
 English
 Mary
-Chapter
 French
 Fish
+
+Second functions:
+Author
+Rank
+Computer
+Code
 Quantity
 
 TODO: write a concept for each word mentioned above!
