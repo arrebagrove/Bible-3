@@ -54,6 +54,10 @@ Class	Version
 
 These keywords were mapped as classes:
 --------------------------------------
+Book
+Chapter
+Testament
+Verse
 Portuguese (language)
 English (language)
 French (language)
